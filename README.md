@@ -28,7 +28,9 @@ The database contains five relational tables:
 - fraud_flags
 
 The schema uses primary and foreign key relationships to model real-world banking transaction systems.
+## Entity Relationship Diagram
 
+![ERD](schema/erd.png)
 ---
 
 ## SQL Skills Demonstrated
