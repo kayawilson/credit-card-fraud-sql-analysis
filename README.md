@@ -67,7 +67,17 @@ The schema uses primary and foreign key relationships to model real-world bankin
 - Monitor accounts with repeated declined transactions within short time windows.
 - Increase review of merchants with elevated fraud flag activity.
 - Use transaction patterns to support automated account risk scoring.
+---
 
+## Dashboard Preview
+
+The project also includes a Tableau dashboard visualizing:
+
+- Approved vs Declined Transactions
+- Fraud Flags by Merchant
+- Transaction Amount by Merchant
+
+![Dashboard](dashboard/fraud dashboard.png)
 ## Project Structure
 
 ```text
