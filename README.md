@@ -77,7 +77,7 @@ The project also includes a Tableau dashboard visualizing:
 - Fraud Flags by Merchant
 - Transaction Amount by Merchant
 
-![Dashboard](dashboard/fraud dashboard.png)
+![Dashboard](dashboard/fraud_dashboard.png)
 ## Project Structure
 
 ```text
