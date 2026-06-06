@@ -61,6 +61,13 @@ The schema uses primary and foreign key relationships to model real-world bankin
 
 ---
 
+## Business Recommendations
+
+- Implement alerts for high-dollar declined transactions to help identify potential fraud sooner.
+- Monitor accounts with repeated declined transactions within short time windows.
+- Increase review of merchants with elevated fraud flag activity.
+- Use transaction patterns to support automated account risk scoring.
+
 ## Project Structure
 
 ```text
